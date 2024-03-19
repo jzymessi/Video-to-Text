@@ -30,4 +30,4 @@ python video_to_text.py
 
 Here is an example of the script in action:
 
-![image](images/example.png)
+Hugging face space[https://huggingface.co/spaces/jzyleo/video-to-text]
